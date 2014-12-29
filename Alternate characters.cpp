@@ -1,3 +1,6 @@
+# This is a program for solving the alternate characters challenge on hackerrank
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
