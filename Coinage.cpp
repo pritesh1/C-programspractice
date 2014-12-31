@@ -1,3 +1,5 @@
+# this is the program to solve the hackerrank challenge coinage
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
